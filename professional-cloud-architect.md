@@ -8,7 +8,7 @@
 | **Registration fee:** | $200 (plus tax where applicable).| 
 | **Exam format:** | Multiple choice and multiple select, taken in person at a test center or online-proctored from a remote location. | 
 | **Recommended experience:** |  3+ years of industry experience including 1+ years designing and managing solutions using GCP. | 
-| **Recommended experience:** |  3+ years of industry experience including 1+ years designing and managing solutions using GCP. | 
+| **Certification exam guide:** |  3+ years of industry experience including 1+ years designing and managing solutions using GCP. | 
 
 ### Videos / Sessions
 | Published | Title/Link | Instructor |
