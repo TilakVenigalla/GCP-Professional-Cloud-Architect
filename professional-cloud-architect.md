@@ -22,6 +22,4 @@
 | Qwiklabs | [GCP Essentials](https://google.qwiklabs.com/quests/23) | |
 | Qwiklabs | [Challenge: GCP Architecture](https://google.qwiklabs.com/quests/47) | |
 | Coursera | [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) | |
-| Coursera | [Cloud Infrastructure Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) | |
-| Coursera | [Cloud Architecture with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect) | |
 
