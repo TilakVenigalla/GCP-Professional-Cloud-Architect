@@ -13,9 +13,6 @@
 | Published | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
 | | [AwesomeGCP - Professional Architect Playlist](https://www.youtube.com/watch?v=iNJe_NrbijM&list=PLQMsfKRZZviTIxEh0pkWNwnDUasGVZS4n&index=1) | Sathish VJ |
-| | [Preparing for the GCP Cloud Architect certification](https://www.youtube.com/watch?v=kM8h_IZWYjA) | Raphael Soeiro |
-|  |  |
-|  |
 
 ### Online Trainings
 | Site | Title/Link | Instructor |
