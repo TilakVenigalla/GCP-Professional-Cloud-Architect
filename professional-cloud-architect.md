@@ -1,7 +1,7 @@
 # Professional Cloud Architect
 
 | | | |
-| :---:         |     :---      |          :--- |
+| :---:         |     :---      |
 | **Official Link:** | https://cloud.google.com/certification/cloud-architect/ | 
 | **Length:** | 2 hours | 
 | **Questions:** | ~50 (not a fixed number, but typically around 50+ questions) | 
