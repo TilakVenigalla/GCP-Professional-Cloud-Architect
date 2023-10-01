@@ -1,6 +1,6 @@
 # Professional Cloud Architect
 
 | | | |
-| :---:         |     :---      |          :--- |
+
 
 
